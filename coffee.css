@@ -1,0 +1,51 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Orelega+One&display=swap');
+
+
+{
+    margin:0 ;
+    padding: 0;
+    box-sizing:border-box;
+
+
+}
+.navbar-menu{
+   font-family: 'Roboto Slab', serif;
+   font-size: 20px;
+   font-weight: 600;
+   padding: 2rem 2rem;
+   text-transform: uppercase;
+   position: absolute;
+  top: 15px;
+  right: 20px;
+
+
+
+
+}
+   
+.banner{
+     font-family:'Orelega One', cursive;
+     background: burlywood;
+     
+     
+    }
+    .text{
+        text-align:center;
+        bottom:15px;
+        right:20px;
+    }
+    .para{
+        text-align: center;
+    }
+    .button{
+        text-align: center;
+    }
+   
+
+
+
+    
+     
+
+
